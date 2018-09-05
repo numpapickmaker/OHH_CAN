@@ -1,0 +1,2 @@
+#ifndef CAN_GENERAL_TYPES
+#define CAN_GENERAL_TYPES
